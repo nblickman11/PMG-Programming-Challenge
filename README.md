@@ -1,6 +1,6 @@
 # PMG-Programming-Challenge
 
-Use the following command to run the script to combine our files as requested:
+Use the following command to run the csv-combiner script to combine our files as requested:
 
 ./csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 
